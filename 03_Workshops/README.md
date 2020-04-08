@@ -1,4 +1,4 @@
 # Workshop Code
 
 This folder contains all Jupyter Notebooks and Data Snippets used in **DSML Workshops**.
-- **Workshop_1:** Introduction to git and Python
+- [**Workshop_1:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_01_Intro_to_Python) Setup & Tools
