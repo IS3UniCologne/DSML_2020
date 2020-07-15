@@ -12,3 +12,6 @@ This folder contains all Jupyter Notebooks and Data Snippets used in **DSML Work
 - [**Workshop_09:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_09_AdvancedRegression) Advanced non-linear regression with focus on regularization of non-linear models
 - [**Workshop_10:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_10_Classification) Introduction to classification
 - [**Workshop_11:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_11_Unsupervised_Learning) Introduction to unsupervised learning and clustering
+- [**Workshop_12:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_12_DecisionTrees) Introduction to Decision Trees & Ensembles
+- **Workshop_13:** Non-code based workshop (exam procedure and Q&A)
+- [**Workshop_14:**](https://github.com/IS3UniCologne/DSML_2020/tree/master/03_Workshops/DSML_WS_12_DecisionTrees) Introduction to Neural Networks
